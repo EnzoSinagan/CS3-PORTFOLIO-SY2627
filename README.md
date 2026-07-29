@@ -1,1 +1,1 @@
-This a file created during 9-Lithium class.
+This repository is a portfolio of all activities for S.Y. 2025-2026.
